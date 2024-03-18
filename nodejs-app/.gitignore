@@ -2,10 +2,10 @@
 
 # This is a comment and is ignored by Git
 # Ignore all .log files
-*.log
+#*.log
 
 # Ignore the .env file
-.env
+#.env
 
 # Ignore all files in the node_modules directory
 node_modules/
